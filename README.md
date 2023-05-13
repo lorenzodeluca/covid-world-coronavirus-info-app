@@ -52,4 +52,12 @@ Ecco nei dettagli i delle classi e dei principali metodi presenti nel codice:
 - Le 3 schermate dell'applicazione
 <br />  <br /> 
 
+![Homepage](/screenshots/Screenshot_2020-06-14-22-14-01-042_pro.delucalorenzo.covidworld.jpg)
+
+![Map view](/screenshots/Screenshot_2020-06-15-02-02-20-261_pro.delucalorenzo.covidworld.jpg)
+
+![Country info](/screenshots/Screenshot_2020-06-14-23-18-56-898_pro.delucalorenzo.covidworld.jpg)
+
+
+
 
