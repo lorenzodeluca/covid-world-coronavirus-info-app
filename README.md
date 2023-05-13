@@ -56,8 +56,6 @@ Ecco nei dettagli i delle classi e dei principali metodi presenti nel codice:
   <img src="/screenshots/Screenshot_2020-06-15-02-02-20-261_pro.delucalorenzo.covidworld.jpg" width="300">
   <img src="/screenshots/Screenshot_2020-06-14-22-14-01-042_pro.delucalorenzo.covidworld.jpg" width="300">
   <img src="/screenshots/Screenshot_2020-06-14-23-18-56-898_pro.delucalorenzo.covidworld.jpg" width="300">
-</p>
-<p float="left">
   <img src="/screenshots/Screenshot_2020-06-14-23-23-21-195_pro.delucalorenzo.covidworld.jpg" width="300">
 </p>
 
